@@ -1,11 +1,12 @@
 #include <stdio.h>
 
-int main () {
-   int ch;
+/**
+*main - entry point
+*Return: always 0
+*/
 
-   for( ch = 75 ; ch <= 100; ch++ ) {
-      printf("ASCII value = %d, Character = %c\n", ch , ch );
-   }
-
-   return(0);
+int main(void)
+{
+printf("With proper grammer, but outcome is apeace of art,");
+return (0);
 }
