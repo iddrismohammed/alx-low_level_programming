@@ -1,0 +1,4 @@
+ALX ASSIGNMENT 0x0B. C - malloc, fre
+Memory allocation
+IDDRIS MOHAMMED
+GHANA ACCRA
